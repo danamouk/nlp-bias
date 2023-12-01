@@ -22,7 +22,7 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 
 # Marginalized Subgroups
 
-<img width="450" alt="bubble" src="https://github.com/danamouk/nlp-bias/assets/49573192/9c5055ac-4494-4871-b541-66f29b8a9d9a">
+<img width="400" alt="bubbleplot" src="https://github.com/danamouk/nlp-bias/assets/49573192/754d8fb0-e34a-4644-a7bf-29220464ce15">
 
 <img width="400" alt="intersections" src="https://github.com/danamouk/nlp-bias/assets/49573192/b903ebd2-edf8-4470-9b2c-7911532704a4">
 
