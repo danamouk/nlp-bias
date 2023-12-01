@@ -20,9 +20,11 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 |-------------------|--------------------|--------------|-----------|---------|-----------------------------------------------------|------------|------------|
 | 455461-739-746    | 455461             | 739          | 746       | anxious | arouses to voice/stimulation. Becomes easily anxious. Attempting to mouth words and gesturing but d | SUBJECTIVE | 0.98       |
 
-<img width="600" alt="blurb" src="https://github.com/danamouk/nlp-bias/assets/49573192/2565ac9b-5ab6-44e1-b191-94872a3ecea8">
+# Marginalized Subgroups
 
-<img width="600" alt="intersections" src="https://github.com/danamouk/nlp-bias/assets/49573192/b903ebd2-edf8-4470-9b2c-7911532704a4">
+<img width="400" alt="blurb" src="https://github.com/danamouk/nlp-bias/assets/49573192/2565ac9b-5ab6-44e1-b191-94872a3ecea8">
+
+<img width="400" alt="intersections" src="https://github.com/danamouk/nlp-bias/assets/49573192/b903ebd2-edf8-4470-9b2c-7911532704a4">
 
 
 
