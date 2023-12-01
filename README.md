@@ -24,7 +24,8 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 
 <img width="400" alt="bubbleplot" src="https://github.com/danamouk/nlp-bias/assets/49573192/754d8fb0-e34a-4644-a7bf-29220464ce15">
 
-<img width="400" alt="intersections" src="https://github.com/danamouk/nlp-bias/assets/49573192/b903ebd2-edf8-4470-9b2c-7911532704a4">
+
+<img width="500" alt="intersections" src="https://github.com/danamouk/nlp-bias/assets/49573192/b903ebd2-edf8-4470-9b2c-7911532704a4">
 
 
 
