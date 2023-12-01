@@ -11,6 +11,9 @@ Concurrently, data extraction involves obtaining start and end tokens, along wit
 Furthermore, the BERT text classification model undergoes additional rounds of fine-tuning using the newly labeled data until achieving satisfactory performance on the F1-score. This thorough framework ensures continuous improvement and optimization of the NLP model through active learning principles.
 
 
+# Example Note 
+
+arouable to\n voice/stimulation. Becomes easily {anxious}. Attempting to mouth words\n and gesturing but d
 
 
 
