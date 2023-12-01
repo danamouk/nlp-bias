@@ -12,7 +12,8 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 
 <img width="881" alt="UI" src="https://github.com/danamouk/nlp-bias/assets/49573192/3d4ee34c-dce1-48a0-bfb8-74d09e0a1059">
 
-# Example Note
+# Example Phrase
+
 | id                | row-id             | begin-token | end-token | lexicon | phrase                                              | label      | confidence |
 |-------------------|--------------------|--------------|-----------|---------|-----------------------------------------------------|------------|------------|
 | 455461-739-746    | 455461             | 739          | 746       | anxious | arouses to voice/stimulation. Becomes easily anxious. Attempting to mouth words and gesturing but d | SUBJECTIVE | 0.98       |
