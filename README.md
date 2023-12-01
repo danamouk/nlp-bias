@@ -10,6 +10,7 @@ Concurrently, data extraction involves obtaining start and end tokens, along wit
 
 Furthermore, the BERT text classification model undergoes additional rounds of fine-tuning using the newly labeled data until achieving satisfactory performance on the F1-score. This thorough framework ensures continuous improvement and optimization of the NLP model through active learning principles.
 
+<img width="881" alt="UI" src="https://github.com/danamouk/nlp-bias/assets/49573192/3d4ee34c-dce1-48a0-bfb8-74d09e0a1059">
 
 # Example Note
 | id                | row-id             | begin-token | end-token | lexicon | phrase                                              | label      | confidence |
