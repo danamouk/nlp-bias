@@ -13,7 +13,9 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 
 # Example Note 
 
-arouable to\n voice/stimulation. Becomes easily {anxious}. Attempting to mouth words\n and gesturing but d
+| id       | row-id                  | begin-token | end-token | lexicon    | phrase                                              |
+|----------|-------------------------|-------|-----|---------|---------------------------------------------------|
+| 455461-739-746   | 455461       | 739   | 746 | anxious | arouses to voice/stimulation. Becomes easily anxious. Attempting to mouth words and gesturing but d |
 
 
 
