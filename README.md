@@ -13,9 +13,9 @@ Furthermore, the BERT text classification model undergoes additional rounds of f
 
 # Example Note 
 
-| id       | row-id                  | begin-token | end-token | lexicon    | phrase                                              |
+| id       | row-id                  | begin-token | end-token | lexicon    | phrase                                              | Label      | Confidence |
 |----------|-------------------------|-------|-----|---------|---------------------------------------------------|
-| 455461-739-746   | 455461       | 739   | 746 | anxious | arouses to voice/stimulation. Becomes easily anxious. Attempting to mouth words and gesturing but d |
+| 455461-739-746   | 455461       | 739   | 746 | anxious | arouses to voice/stimulation. Becomes easily anxious. Attempting to mouth words and gesturing but d | SUBJECTIVE | 0.98       |
 
 
 
