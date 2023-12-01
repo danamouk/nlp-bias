@@ -1,7 +1,7 @@
 # Detecting Implicit Biases in Electronic Patient Records: A Linguistic Analysis of Stigma and Disparities in Healthcare
 
 
-# Data Collection
+# Overview
 
 
 In the Active Learning NLP Framework, the process begins with clinical experts annotating a small set of high-quality data using subjective lexicons (e.g., pleasant, combative, talkative, confused, forgetful). This annotation involves creating a multi-token phrase by adding 50 characters on either side of the lexicon for annotation, with each pair of annotators assigned to a specific batch. Subsequently, sentences where both annotators agree, as determined by the Cohen Kappa score, are selected. These agreed-upon sentences play a crucial role in fine-tuning BERT for text classification, enabling the model to discern between subjective and non-subjective sentiments. For sentences displaying low confidence scores, a feedback loop is initiated, and they undergo further annotation by clinical experts through the user interface. This iterative process enhances the model's adaptability to nuanced instances.
